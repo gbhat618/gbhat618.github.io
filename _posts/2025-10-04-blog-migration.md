@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog Migration
-date: '2025-10-04 20:45:00 +000'
+date: '2025-10-04 20:45:00 +0530'
 categories:
   - Technology
 tags:
