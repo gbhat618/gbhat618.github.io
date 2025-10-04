@@ -15,7 +15,7 @@ comments: []
 <div style="text-align: center;">
   <img src="/assets/images/2025-10-04-blog-migration.png" alt="Blog Migration Image" style="max-width: 300px; width: 100%; height: auto; display: block; margin: 0 auto;" />
   <div style="font-size: 0.9em; color: #555; margin-top: 8px;">
-    <em>Image by ChatGPT</a></em>
+    <em>Image by ChatGPT</em>
   </div>
 </div>
 
