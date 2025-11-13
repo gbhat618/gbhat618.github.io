@@ -12,7 +12,7 @@ comments: []
 ---
 
 <div style="text-align: center;">
-  <img src="/assets/images/2025-11-13-upside-down-cat" alt="Upside down cat image" style="max-width: 300px; width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <img src="/assets/images/2025-11-13-upside-down-cat.png" alt="Upside down cat image" style="max-width: 300px; width: 100%; height: auto; display: block; margin: 0 auto;" />
   <div style="font-size: 0.9em; color: #555; margin-top: 8px;">
     <em>Image by ChatGPT</em>
   </div>
@@ -36,5 +36,5 @@ Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, wh
 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 ```
 
-Man page: https://man7.org/linux/man-pages/man1/tac.1.html (also see `rev` linked in the man page, such nice tools!)
+Man page: [https://man7.org/linux/man-pages/man1/tac.1.html](https://man7.org/linux/man-pages/man1/tac.1.html) (also see `rev` linked in the man page, such nice tools!)
 
