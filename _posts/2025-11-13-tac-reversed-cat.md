@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `tac` as `cat` reversed
+title: tac command in linux
 date: '2025-11-13 23:45:00 +0530'
 categories:
   - Technology
