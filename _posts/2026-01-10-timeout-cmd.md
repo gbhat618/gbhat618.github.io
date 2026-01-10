@@ -30,7 +30,7 @@ sys     0m0.003s
 
 Just this week, I was so happy to learn the `timeout` command to kill upon exceeding certain duration.
 
-Terminates command expected to take 10s, terminated after 5s.
+Example below, terminates command expected to take 10s after 5s.
 
 It's silent if explicitely not asked to report.
 ```bash
