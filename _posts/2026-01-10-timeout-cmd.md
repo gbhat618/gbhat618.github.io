@@ -1,7 +1,7 @@
 ---
 layout: post
 title: timeout command in linux
-date: '2026-01-13 19:48:00 +0530'
+date: '2026-01-10 19:48:00 +0530'
 categories:
   - Technology
 tags:
